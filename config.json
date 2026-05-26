@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggerpalculate",
+        "uuid": 1971630,
+        "checksum": "auhyeq"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
